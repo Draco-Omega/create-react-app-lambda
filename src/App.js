@@ -1,3 +1,4 @@
+import React from 'react';
 import FreelanceDevWebsite from './FreelanceDevWebsite';
 
 function App() {
