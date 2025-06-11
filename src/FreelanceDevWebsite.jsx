@@ -56,10 +56,10 @@ export default function FreelanceDevWebsite() {
           </form>
           <div className="mt-10 flex justify-center gap-10 text-gray-700">
             <div className="flex items-center gap-2">
-              <Mail className="w-5 h-5" /> <span>alex@freelancedev.com</span>
+              <!--<Mail className="w-5 h-5" /> <span>alex@freelancedev.com</span>-->
             </div>
             <div className="flex items-center gap-2">
-              <Phone className="w-5 h-5" /> <span>+1 (555) 123-4567</span>
+              <!--<Phone className="w-5 h-5" /> <span>+1 (555) 123-4567</span>-->
             </div>
           </div>
         </div>
