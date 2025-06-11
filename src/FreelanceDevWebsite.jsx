@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Mail, Phone } from "lucide-react";
+//import { Mail, Phone } from "lucide-react";
 
 const images = {
   hero: "https://images.unsplash.com/photo-1505685296765-3a2736de412f",
